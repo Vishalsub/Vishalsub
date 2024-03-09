@@ -20,19 +20,7 @@ I'm a robotics enthusiast and developer dedicated to pushing the boundaries of t
 
 #
 
-### 🚀 Projects and Achievements
-
-- **VR Virtual Laboratory with Haptic Glove**
-  - Developed an immersive VR lab for school students, enhancing their learning experience with haptic feedback.
-
-- **Line Follower DIY Robot using IoT**
-  - Designed and fabricated a Line Follower bot, securing a winning position in the Technoxian Robot Competition.
-
-- **Interactive Facial Expressive Robot**
-  - Created a robot with PID control, wake word detection, speech recognition, and face recognition for engaging user interaction.
-
-- **Autonomous Library Management Robot**
-  - Utilized ROS and Hector SLAM for cutting-edge autonomous navigation in a library environment.
+### 🚀 Achievements
 
 - **Smart India Hackathon 2022**
   - Special Category Award Winner.

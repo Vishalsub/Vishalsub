@@ -1,4 +1,4 @@
-# 👨‍💻 Your Name
+# 👨‍💻 Vishal Subramanian
 
 **`Passionate Robotics Engineer and Innovator`**
 
@@ -18,11 +18,14 @@ I'm a robotics enthusiast and developer dedicated to pushing the boundaries of t
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="ROS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" />
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 <br />
 
 #
@@ -64,9 +67,8 @@ I'm a robotics enthusiast and developer dedicated to pushing the boundaries of t
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Username])
-- [Twitter](https://twitter.com/[Your Twitter Username])
-- [GitHub](https://github.com/[Your GitHub Username])
+- [LinkedIn](https://www.linkedin.com/in/vishalsubra/)
+
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any inquiries or collaboration opportunities.
 

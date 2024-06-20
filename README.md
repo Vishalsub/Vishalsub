@@ -9,9 +9,9 @@ I'm a robotics enthusiast and developer dedicated to pushing the boundaries of t
 
 ### 🧰 Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ros,cpp,python,pytorch,git,docker,gcp,linux,blender,neovim,notion," />
   </a>
 </p>
 <br />

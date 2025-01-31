@@ -6,7 +6,7 @@ I'm a robotics enthusiast and developer dedicated to pushing the boundaries of t
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My_Website](https://vishalsub.github.io/My-Portfolio/)
-* ✉️  You can contact me at [](mailto:vishalsubra127@gmail.com)
+* ✉️  You can contact me at [Mail](mailto:vishalsubra127@gmail.com)
 * 🚀  I'm currently working on [AMR](http://github.com/Vishalsub/tars_amr_sim/tree/humble)
 * 🧠  I'm learning deep Learining and Gen AI
 * 🤝  I'm open to collaborating on llm and ROS 1&2 (AMR and Manipulator) related projects

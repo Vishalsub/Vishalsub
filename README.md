@@ -1,62 +1,71 @@
-# 👨‍💻 Vishal Subramanian
+# 👋 Hi, I’m Vishal Subramanian
 
-**`Passionate Robotics Engineer and Innovator`**
+**Robotics Engineer | AI Learner | Builder of Intelligent Systems**
 
-I'm a robotics enthusiast and developer dedicated to pushing the boundaries of technology. My journey involves transforming theoretical concepts into impactful projects and achievements that contribute to the field of robotics.
+I'm passionate about building real-world robotics systems using ROS, reinforcement learning, and AI tools. I work on both autonomous mobile robots (AMRs) and robotic manipulators, with a focus on simulation-driven development and integration with modern AI.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My_Website](https://vishalsub.github.io/My-Portfolio/)
-* ✉️  You can contact me at [Mail](mailto:vishalsubra127@gmail.com)
-* 🚀  I'm currently working on [AMR](http://github.com/Vishalsub/tars_amr_sim/tree/humble)
-* 🧠  I'm learning deep Learining and Gen AI
-* 🤝  I'm open to collaborating on llm and ROS 1&2 (AMR and Manipulator) related projects
 ---
 
-### 🧰 Languages and Tools
+### 🚀 Current Focus
+
+- 🧠 Learning Deep Learning & Generative AI  
+- 🤖 Developing AMR & Manipulator systems using ROS 2  
+- ⚙️ Building RL-driven control pipelines  
+- 🌐 Exploring LLMs + Robotics  
+- 📍 Based in Singapore 🇸🇬 (originally from India 🇮🇳)
+
+🧳 Portfolio: [vishalsub.github.io](https://vishalsub.github.io/My-Portfolio/)  
+📫 Email: [vishalsubra127@gmail.com](mailto:vishalsubra127@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools:**  
+`Python` • `C++` • `ROS 1 & 2` • `Pytorch` • `Docker` • `Git` • `GCP` • `Linux` • `Neovim`
+
+**Specialties:**  
+- AMR Navigation & Simulation  
+- Manipulator Kinematics & Control  
+- Reinforcement Learning for Robotics  
+- Perception with YOLOv8, CV Tasks  
+- Modular CLI Development  
+- Git-based Team Collaboration
+
+---
+
+### 📬 Connect with Me
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,cpp,python,pytorch,git,docker,gcp,linux,blender,neovim,notion," />
+  <a href="https://github.com/Vishalsub" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishalsubra" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/@vishalsubramanian-ue1kh" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
   </a>
 </p>
-<br />
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Vishalsub" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vishalsubra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@vishalsubramanian-ue1kh " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
-
-
-
-
-
-### 🚀 Achievements
-
-- **Smart India Hackathon 2022**
-  - Special Category Award Winner.
-
-- **Ideathon 2022**
-  - 2nd Prize Winner.
-
-- **Technoxian Robot Competition 2019**
-  - Winner.
 
 ---
 
-### 🔧 Skills
+### 📊 GitHub Stats
 
-- **Robotics & Automation:** ROS, AMR Navigation, Git
-- **Programming:** Python, Deep Learning (beginner)
-- **Cloud Computing:** GCP (Cloud Function)
-- **Computer Vision:** YOLOv8, Image Segmentation
-- **Collaboration:** Git, Version Control
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalsub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalsub&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 🌐 Connect with Me
+### 🤝 Open to Collaborations
 
-- [LinkedIn](https://www.linkedin.com/in/vishalsubra/)
+Looking to collaborate on:  
+- 🔄 Reinforcement Learning + Robotics  
+- 🧠 LLM + Sensor/Planning Integration  
+- 🦾 AMR/Manipulator Simulations in ROS2
 
-
-Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any inquiries or collaboration opportunities.
-
-Happy coding! 🤖🚀
+Let’s build cool things together. Happy coding! 🤖🚀

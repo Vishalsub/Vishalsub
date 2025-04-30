@@ -35,30 +35,19 @@ Currently pursuing my MSc in Robotics at the National University of Singapore (N
 
 ---
 
-### 📬 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/Vishalsub" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishalsubra" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.youtube.com/@vishalsubramanian-ue1kh" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalsub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalsub&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Vishalsub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalsub&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -68,5 +57,9 @@ Looking to collaborate on:
 - 🔄 Reinforcement Learning + Robotics  
 - 🧠 LLM + Sensor/Planning Integration  
 - 🦾 AMR/Manipulator Simulations in ROS2
+
+### 📬 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/vishalsubra/)
 
 Let’s build cool things together. Happy coding! 🤖🚀
